@@ -15,7 +15,7 @@ A estrutura do projeto é a seguinte:
 ├── postgres-data/        # Dados do PostgreSQL (usado para desenvolvimento local em ambiente Docker)
 ├── src/                  # Código-fonte da aplicação
 ├── tests/                # Testes unitários e de integração
-├── MyProject.sln         # Arquivo de solução do Visual Studio
+├── Ambev.DeveloperEvaluation.sln         # Arquivo de solução do Visual Studio
 ├── docker-compose.yml    # Configuração do Docker Compose para rodar a aplicação e o PostgreSQL
 └── launchSettings.json   # Configurações de execução do projeto (perfis de depuração)
 ```
