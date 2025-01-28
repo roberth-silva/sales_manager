@@ -1,0 +1,39 @@
+# Diretórios e arquivos gerados pelo .NET
+bin/
+obj/
+
+# Dados do PostgreSQL
+postgres-data/
+
+# Configurações de execução e debug locais
+launchSettings.json
+
+# Arquivos gerados pelo Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos gerados pelo Visual Studio Code
+.vscode/
+
+# Logs e relatórios
+*.log
+TestResults/
+
+# Arquivos temporários do sistema operacional
+[Tt]humbs.db
+*.DS_Store
+
+# Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+
+# Outras configurações
+*.ide/
+.idea/
+_ReSharper*/ 

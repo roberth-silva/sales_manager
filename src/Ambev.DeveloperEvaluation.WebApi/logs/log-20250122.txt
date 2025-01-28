@@ -1,0 +1,29 @@
+2025-01-22 08:07:22.112 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-01-22 08:07:22.297 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\rober\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-22 08:07:22.433 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-01-22 08:07:22.434 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-01-22 08:07:22.440 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-01-22 08:07:22.441 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: C:\Users\rober\Documents\Testes_entrevistas\Mouts\SalesManager\src\Ambev.DeveloperEvaluation.WebApi
+2025-01-22 08:07:29.777 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/ - null null
+2025-01-22 08:07:30.003 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/ - 404 0 null 233.6046ms
+2025-01-22 08:07:30.013 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5119/, Response status code: 404
+2025-01-22 08:07:36.560 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/ - null null
+2025-01-22 08:07:36.567 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/ - 404 0 null 7.8069ms
+2025-01-22 08:07:36.572 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5119/, Response status code: 404
+2025-01-22 08:09:46.488 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
+2025-01-22 09:35:12.094 -03:00 [INF] Microsoft.Extensions.Diagnostics.HealthChecks.HealthCheckService Health Check enabled at: '/health'
+2025-01-22 09:35:12.187 -03:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\rober\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-22 09:35:12.244 -03:00 [INF] Microsoft.Hosting.Lifetime Now listening on: http://localhost:5119
+2025-01-22 09:35:12.247 -03:00 [INF] Microsoft.Hosting.Lifetime Application started. Press Ctrl+C to shut down.
+2025-01-22 09:35:12.248 -03:00 [INF] Microsoft.Hosting.Lifetime Hosting environment: Development
+2025-01-22 09:35:12.250 -03:00 [INF] Microsoft.Hosting.Lifetime Content root path: C:\Users\rober\Documents\Testes_entrevistas\Mouts\SalesManager\src\Ambev.DeveloperEvaluation.WebApi
+2025-01-22 09:35:25.859 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/ - null null
+2025-01-22 09:35:25.953 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/ - 404 0 null 95.5048ms
+2025-01-22 09:35:25.964 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5119/, Response status code: 404
+2025-01-22 09:36:30.280 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/ - null null
+2025-01-22 09:36:30.285 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/ - 404 0 null 5.0909ms
+2025-01-22 09:36:30.289 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5119/, Response status code: 404
+2025-01-22 09:36:46.791 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request starting HTTP/1.1 GET http://localhost:5119/ - null null
+2025-01-22 09:36:46.797 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request finished HTTP/1.1 GET http://localhost:5119/ - 404 0 null 6.0274ms
+2025-01-22 09:36:46.802 -03:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5119/, Response status code: 404
+2025-01-22 09:37:01.908 -03:00 [INF] Microsoft.Hosting.Lifetime Application is shutting down...
