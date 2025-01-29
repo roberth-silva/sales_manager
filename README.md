@@ -99,6 +99,47 @@ A estrutura do projeto é a seguinte:
 
 ---
 
+## 🛠 Modelos de Ação
+
+- Para executar as ações de create e update, o seguinte modelo pode ser utilizado:
+- Para ações de create, os valores dos atributos Id, saleId serão atualizados e inseridos o valor correto no banco.
+
+```json
+{
+  "Id": "50f8ca77-ecfa-42f0-b1aa-a69bc933d217",
+  "saleNumber": "1",
+  "saleDate": "2025-01-25T13:40:07.919Z",
+  "customer": "Roberth Silva",
+  "totalAmount": 100,
+  "branch": "mercadoria 4",
+  "items": [
+    {
+      "id": 3,
+      "saleId": "50f8ca77-ecfa-42f0-b1aa-a69bc933d217",
+      "sale": {
+        "saleNumber": "1",
+        "saleDate": "2025-01-25T13:40:07.919Z",
+        "customer": "Roberth Silva",
+        "totalAmount": 100,
+        "branch": "mercadoria",
+        "isCancelled": false,
+        "createdAt": "2025-01-25T13:40:07.919Z",
+        "updatedAt": "2025-01-25T13:40:07.919Z"
+      },
+      "product": "calca jeans",
+      "quantity": 12,
+      "unitPrice": 100,
+      "discount": 0,
+      "totalAmount": 100,
+      "createdAt": "2025-01-25T13:40:07.919Z",
+      "updatedAt": "2025-01-25T13:40:07.919Z"    
+      }
+  ],
+  "isCancelled": false
+}
+```
+
+
 ## 🛠 Configurações
 
 ### Banco de Dados (PostgreSQL)
